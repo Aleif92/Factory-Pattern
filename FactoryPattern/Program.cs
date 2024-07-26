@@ -17,6 +17,7 @@
             
 
             var vehicle = VehicleFactory.GetVehicle(numberOfWheels);
+            
             vehicle.Drive();
 
             // Console.WriteLine($"Your vehicle is a {vehicle}");
